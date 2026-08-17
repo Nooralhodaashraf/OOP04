@@ -41,6 +41,11 @@
 
             #endregion
 
+            #region c)  Can a class inherit from multiple abstract classes? Can it implement multiple interfaces?
+            //no,it can only inhert from 1 abstract class 
+            //yes , it can implement multiple interfaces
+            #endregion
+
             #endregion
 
 
