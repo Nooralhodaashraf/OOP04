@@ -36,6 +36,11 @@
             //define a contract 
             #endregion
 
+            #region b)  When would you choose an Interface instead of an Abstract Class?
+            //you would choose an interface instead of an abstract class when you want to define a contract that multiple classes can implement, regardless of their position in the class hierarchy. Interfaces are ideal for defining capabilities that can be shared across unrelated classes, promoting flexibility and decoupling in your code design.
+
+            #endregion
+
             #endregion
 
 
