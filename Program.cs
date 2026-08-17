@@ -18,6 +18,25 @@
 
             #endregion
 
+            #region Q2
+            #region a)  What is the difference between an Abstract Class and an Interface?
+            //the difference between an Abstract Class and an Interface is 
+            //abstract:
+            //class can have abstract and cocrete methods
+            //can have feilds 
+            //can use any access modifier 
+            //class can inhert 1 abstract class
+            //provides base functionality and commen behavior
+            //interface:
+            //only abstract methods untill C# 0.8 (defult and ststic methods)
+            //connot have feilds only const
+            //access modifier is public by defult for members 
+            //class can implements multible interfaces 
+            //connot have a constructor 
+            //define a contract 
+            #endregion
+
+            #endregion
 
 
 
